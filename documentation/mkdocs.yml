@@ -1,9 +1,9 @@
 site_name: Blogus Documentation
 site_description: "package.lock for AI prompts - Extract, version, lock, and sync your prompts"
-site_url: https://blogus.dev
+site_url: https://docs.skelfresearch.com/blogus/
 
-repo_name: blogus
-repo_url: https://github.com/your-username/blogus
+repo_name: Skelf-Research/blogus
+repo_url: https://github.com/Skelf-Research/blogus
 edit_uri: edit/main/documentation/docs/
 
 theme:
