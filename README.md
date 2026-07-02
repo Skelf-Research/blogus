@@ -7,6 +7,12 @@ Extract prompts from your codebase, version them like dependencies, and keep eve
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/blogus.svg)](https://badge.fury.io/py/blogus)
 
+<p align="center">
+  <a href="https://blogus.skelfresearch.com"><b>Website</b></a> •
+  <a href="https://docs.skelfresearch.com/blogus">Documentation</a> •
+  <a href="https://skelfresearch.com">Skelf Research</a>
+</p>
+
 ## Why Blogus?
 
 | Approach | Discover | Version | Test | Sync | Lock |
@@ -196,3 +202,15 @@ Review this {{language}} code for bugs:
 ## License
 
 MIT
+
+---
+
+## Part of Skelf Research
+
+`blogus` is built by **[Skelf Research](https://skelfresearch.com)** — an independent UK AI research lab publishing production-grade open-source projects.
+
+🌐 [Website](https://blogus.skelfresearch.com) · 📚 [Documentation](https://docs.skelfresearch.com/blogus) · 🔬 [All projects](https://skelfresearch.com/projects) · 🤗 [Hugging Face](https://huggingface.co/skelfresearch)
+
+**Related projects:** [promptel](https://promptel.skelfresearch.com) (declarative prompt DSL), [route-switch](https://route-switch.skelfresearch.com) (self-improving LLM gateway), [anouk](https://anouk.skelfresearch.com) (AI browser extensions)
+
+<sub>Released under MIT / Apache-2.0. © Skelf Research Limited.</sub>
