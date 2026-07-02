@@ -29,8 +29,6 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.indexes
     - search.suggest
     - search.highlight
